@@ -1,5 +1,8 @@
-jeebak's layout
+jboner's layout
 =======================
+
+My personal modifications (tweaks and macros) to the jeebak layout. 
+
 This WIP keymap attempts to minimize fingers straying away from the home row.
 To aid in this endeavor, when additional modifyer keys to switch layers are
 needed, they will be mapped to home row keys. The `keymap.c` file will contain
