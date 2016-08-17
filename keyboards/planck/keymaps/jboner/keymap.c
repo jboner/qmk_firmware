@@ -82,7 +82,7 @@ const qk_tap_dance_action_t tap_dance_actions[] = {
 
 
 // Requires KC_TRNS/_______ for the trigger key in the destination layer
-#define LT_TC       LT(_TOUCHCURSOR, TD(TD_SPC_ENT)) // L-ayer T-ap T-ouch C-ursor
+#define LT_TC       LT(_TOUCHCURSOR, KC_SPC)    // L-ayer T-ap T-ouch C-ursor
 #define LT_MC(kc)   LT(_MOUSECURSOR, kc)        // L-ayer T-ap M-ouse C-ursor
 #define ALT_TAB     M(KC_ALT_TAB)               // Macro for Alt-Tab
 #define CMD_TAB     M(KC_CMD_TAB)               // Macro for Cmd-Tab
